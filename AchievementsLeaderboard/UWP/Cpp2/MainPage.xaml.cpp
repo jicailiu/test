@@ -52,21 +52,21 @@ enum ScenarioItemTag
 
 ScenarioDescriptionItem ScenarioDescriptions[] =
 {
-    { Scenario_GetAchievement, "Get Achievement" },
+    //{ Scenario_GetAchievement, "Get Achievement" },
     { Scenario_GetAchievementsForTitleId, "Get Achievements" },
-    { Scenario_GetLeaderboardAsync, "Get leaderboard" },
-    { Scenario_GetLeaderboardSkipToRankAsync, "Get leaderboard skip to rank #2" },
-    { Scenario_GetLeaderboardSkipToXuidAsync, "Get leaderboard skip to self" },
-    { Scenario_GetLeaderboardForSocialGroupAsync, "Get leaderboard of friends" },
-    { Scenario_GetLeaderboardForSocialGroupWithSortAsync, "Get leaderboard of friends and sorts" },
-    { Scenario_GetLeaderboardForSocialGroupSkipToRankAsync, "Get leaderboard of friends skip to rank" },
-    { Scenario_GetLeaderboardForSocialGroupSkipToXuidAsync, "Get leaderboard of friends skip to self" },
+    //{ Scenario_GetLeaderboardAsync, "Get leaderboard" },
+    //{ Scenario_GetLeaderboardSkipToRankAsync, "Get leaderboard skip to rank #2" },
+    //{ Scenario_GetLeaderboardSkipToXuidAsync, "Get leaderboard skip to self" },
+    //{ Scenario_GetLeaderboardForSocialGroupAsync, "Get leaderboard of friends" },
+    //{ Scenario_GetLeaderboardForSocialGroupWithSortAsync, "Get leaderboard of friends and sorts" },
+    //{ Scenario_GetLeaderboardForSocialGroupSkipToRankAsync, "Get leaderboard of friends skip to rank" },
+    //{ Scenario_GetLeaderboardForSocialGroupSkipToXuidAsync, "Get leaderboard of friends skip to self" },
     { Scenario_GetSingleUserStatisticsAsync, "Get single user statistic" },
-    { Scenario_GetMultipleUserStatisticsAsync, "Get multiple users statistic" },
+    //{ Scenario_GetMultipleUserStatisticsAsync, "Get multiple users statistic" },
     { Scenario_WriteEvent, "Write Events" },
-    { Scenario_ActivateRTAAndStartStatSubscription, "Activate RTA and Start Statistic Subscription" },
-    { Scenario_StopStatisticSubscription, "Stop Statistic Subscription" },
-    { Scenario_DeactivateRTA, "Deactivate RTA" }
+    //{ Scenario_ActivateRTAAndStartStatSubscription, "Activate RTA and Start Statistic Subscription" },
+    //{ Scenario_StopStatisticSubscription, "Stop Statistic Subscription" },
+    //{ Scenario_DeactivateRTA, "Deactivate RTA" }
 };
 
 bool MainPage::RunScenario(int selectedTag)
