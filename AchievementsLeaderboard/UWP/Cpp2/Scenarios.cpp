@@ -460,16 +460,29 @@ void Scenarios::LogUserStatisticsResult(_In_ MainPage^ mainPage, _In_ xbox::serv
     }
 }
 
+std::wstring ConvertAchievementState(xbox::services::achievements::achievement_progress_state state)
+{
+    switch (state)
+    {
+    case xbox::services::achievements::achievement_progress_state::achieved:
+        return L"achieved";
+    case xbox::services::achievements::achievement_progress_state::in_progress:
+        return L"in progress";
+    case xbox::services::achievements::achievement_progress_state::not_started:
+        return L"not started";
+    default:
+        return L"unknown";
+    }
+}
+
 void Scenarios::LogAchievement(
     _In_ MainPage^ mainPage,
     _In_ const xbox::services::achievements::achievement& achievement
     )
 {
     bool unlocked = (achievement.progress_state() == xbox::services::achievements::achievement_progress_state::achieved);
-    mainPage->LogFormat(L"  ----Achievement: '%s' (%d) ------", achievement.name().c_str(), achievement.id().c_str());
-    mainPage->LogFormat(L"    Description: %s", unlocked ? achievement.unlocked_description().c_str() : achievement.locked_description().c_str());
-    mainPage->LogFormat(L"    AchievementType: %d", static_cast<int>(achievement.type()));
-    mainPage->LogFormat(L"    ProgressState: %d", static_cast<int>(achievement.progress_state()));
+    mainPage->LogFormat(L"  ----Achievement: '%s' (%s) ------", achievement.name().c_str(), achievement.id().c_str());
+    mainPage->LogFormat(L"    ProgressState: %s", ConvertAchievementState(achievement.progress_state()).c_str());
 }
 
 void Scenarios::ProcessLeaderboardResult(

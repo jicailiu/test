@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <StoreAssociation xmlns="http://schemas.microsoft.com/appx/2010/storeassociation">
-  <Publisher>CN=05CED280-A1ED-43B6-A829-24A41420CFF7</Publisher>
-  <PublisherDisplayName>XDPHelpDevAccounts</PublisherDisplayName>
+  <Publisher>CN=CE00B9BA-76FD-4DEB-8467-08AFAE3E9B9C</Publisher>
+  <PublisherDisplayName>Xbox Developer Experience Team</PublisherDisplayName>
   <GeneratePackageHash>http://www.w3.org/2001/04/xmlenc#sha256</GeneratePackageHash>
   <SupportedLocales>
     <Language Code="af" InMinimumRequirementSet="true" />
@@ -358,33 +358,88 @@
     <Language Code="zu-za" InMinimumRequirementSet="true" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.jicailiutest</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.btylerSpaceShooterTest</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>jicailiutest</ReservedName>
+      <ReservedName>btyler_SpaceShooterTest</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.DaneTest</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregCreatorsTestChrome</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregISstillTesting</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTest200</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTest50</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTest60</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTest70</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTest80</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTestBlink</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.GregTestSandbox</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.JeffreyTest1</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.Kamstest2017</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.Kamtest1115</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.MattAppPrime</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.NathanTestApp</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.RadekMegatestGame</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.testmonkey</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.TestappJay</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.TestLock</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.Testlock2</MainPackageIdentityName>
-    <MainPackageIdentityName>34209XDPHelpDevAccounts.435158EA215A8</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.DemoSpaceShooter</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDrop2016</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDropUWPCI</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDrop2016ERASuperXVC</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDrop</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.63488D07B2451</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDrop2016ERA-30Daytri</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.7046309DBF4A</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDrop2016ERA</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDropUWP</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BeatDropXBox</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.Benran.Test1</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BluestStar3</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.BuildDemo2016.Sandboxed</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.DLCTest</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.DLCTestAppSandbox</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.DLCTestReal</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.DLCTestSandbox</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.kalsdjfnoawenfowf</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.MDHTTest</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.MediaAppTemplateFromBuil</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.MillionDollarHeadsorTail</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.NoXsapiUWP2</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.NoXsapiUWP4</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.NoXsapiUWP5</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.PartyTime</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.ProtectedCubeUWP</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.ScrapyardPhoenix</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.ScrapyardPhoenix-Cert</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.475947A217EA4</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.SkypeUWP-MSFT</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.TheBluestStar2</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.VideoTestRS3Vijay</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.WizardSetupTest</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestERA.ContentIs</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.BopaEraUw</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.Broadcast</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.BundleGam</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.62728AA9F2A6A</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.57610D85E785E</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.29035EBE77AA7</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.5738D56D9505</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.4585334AB3012</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.ContentUp</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.34534612FEC76</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.ESRB3</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.Unrated</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.437848C5FA0C7</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.428616CF0E514</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.Game.Broa</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.Game.NoBr</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.56633070FC7A8</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.LargePayl</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.29035313C259E</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.PaidWithF</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.PaidWithL</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.PaidWithU</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.316479671DDCF</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.389989CE26DBC</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.37035D033AF7C</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.16028C2927737</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.TokenAvai</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.515682C232EDD</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.65393CA666436</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.60660031A129F</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.143923A313D5E</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.16297E5034B19</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxOneTestUWP.XboxLiveS</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.65013F2F62036</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxTestERA.ContentIsola</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxTestUWP.Camera.Game</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.60116564EF3D9</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XboxTestUWP.IAPTest.App</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.xfestdemo1</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.241910B41A74C</MainPackageIdentityName>
+    <MainPackageIdentityName>XboxDeveloperExperienceTe.XliveRatingMature</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9NF3SCLNJ371" />
+  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9NWDX0KC5G28" />
 </StoreAssociation>

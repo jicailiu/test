@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="34209XDPHelpDevAccounts.jicailiutest" Version="1.1.0.0" Publisher="CN=05CED280-A1ED-43B6-A829-24A41420CFF7" ProcessorArchitecture="x86" />
-  <mp:PhoneIdentity PhoneProductId="f75c2534-3009-46e2-b8b8-7ea63a4c7022" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="XboxDeveloperExperienceTe.btylerSpaceShooterTest" Version="1.1.0.0" Publisher="CN=CE00B9BA-76FD-4DEB-8467-08AFAE3E9B9C" ProcessorArchitecture="x86" />
+  <mp:PhoneIdentity PhoneProductId="27e53f53-4427-445c-bbc3-7965caa99394" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>jicailiutest</DisplayName>
-    <PublisherDisplayName>XDPHelpDevAccounts</PublisherDisplayName>
+    <DisplayName>btyler_SpaceShooterTest</DisplayName>
+    <PublisherDisplayName>Xbox Developer Experience Team</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>

@@ -10,7 +10,7 @@
     <ApplicationTypeRevision>10.0</ApplicationTypeRevision>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
     <WindowsTargetPlatformMinVersion>10.0.14393.0</WindowsTargetPlatformMinVersion>
-    <PackageCertificateThumbprint>7A08A51118BC5C83061E7F0BC61D60299196EC8E</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>DCB9D94B96520246E740AE951BCB1B6EB1B42288</PackageCertificateThumbprint>
     <PackageCertificateKeyFile>AchievementLeaderboard_StoreKey.pfx</PackageCertificateKeyFile>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
